@@ -1,4 +1,4 @@
-Copyright ® http://shadowhackit.blogspot.com -- Rahul Singal
+
 
 
 
